@@ -1,0 +1,4 @@
+Human Sword Chainmail
+165 126 111
+Human Axe Chainmail
+113 175 86
